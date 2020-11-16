@@ -5,4 +5,5 @@ from becode_example import Multiplication
 multiplication = Multiplication(2)
 
 # Call the multiply method
-multiplication.multiply(5)
+result = multiplication.multiply(5)
+print(result)

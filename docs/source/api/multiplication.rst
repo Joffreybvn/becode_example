@@ -1,7 +1,7 @@
 
-=============================
-becode_example.Multiplication
-=============================
+=============
+N'importequoi
+=============
 
 .. currentmodule:: becode_example.multiplication
 

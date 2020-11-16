@@ -17,9 +17,9 @@ sys.path.insert(0, os.path.abspath('..'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'Becode Example'
-copyright = '2020, Joffrey Bienvenu'
-author = 'Joffrey Bienvenu'
+project = 'Becode example'
+copyright = '2020, Joffrey'
+author = 'Joffrey'
 
 
 # -- General configuration ---------------------------------------------------
